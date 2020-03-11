@@ -5,7 +5,7 @@ Package for calculating and formatting information units like Bit, Byte, Kilobit
 ## Installation
 
 ```
-composer require unit/information-unit
+composer require unit/information
 ```
 
 ## Usage
